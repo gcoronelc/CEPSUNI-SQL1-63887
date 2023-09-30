@@ -1,0 +1,23 @@
+PROGRAMACION DE CLASES
+-------------------------------------------------
+Clase 1: 30.SET.23: 
+Clase 2: 07.OCT.23: Practica 1
+Clase 3: 14.OCT.23: Practica 2
+Clase 4: 21.OCT.23: Practica 3
+Clase 5: 28.OCT.23: Practica 4 y Examen Final
+
+
+NOTA
+-------------------------------------------------
+Las practicas son sincronas en hora de clase.
+
+
+
+SISTEMA DE CALIFICACIÓN
+-------------------------------------------------
+- 4 Practicas Calificadas
+- 1 Examen Final
+
+
+PP = ( pc1 + pc2 + pc3 + pc4 - MenorPC ) / 3
+PF = ( PP + EF ) / 2
